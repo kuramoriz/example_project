@@ -5,3 +5,5 @@ def my_cool_function():
 print('Hello world!')
 print('Added something new')
 print('!!!')
+
+print('my friend come and add something')
